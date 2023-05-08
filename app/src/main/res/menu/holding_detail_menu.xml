@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_add_test"
+        android:title="补仓试算" />
+
+    <item
+        android:id="@+id/navigation_add_change"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="记录操作" />
+
+    <item
+        android:id="@+id/navigation_update_price"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="更新市价" />
+
+    <item
+        android:id="@+id/navigation_update_holding"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="更改持仓" />
+
+</menu>

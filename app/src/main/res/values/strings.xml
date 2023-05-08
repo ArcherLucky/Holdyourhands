@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">管住手</string>
+    <string name="title_home">持仓</string>
+    <string name="title_dashboard">添加</string>
+    <string name="title_notifications">未知</string>
+    <string name="delete">删除</string>
+    <string name="target">标的</string>
+    <string name="holding_and_enable">持仓/可用</string>
+    <string name="cost_and_price">成本/市价</string>
+    <string name="result">盈亏</string>
+    <string name="mind_mini">最低价位断言：</string>
+    <string name="cost_change">持仓成本变为：%1$s</string>
+    <string name="result_change">盈亏为：%1$s</string>
+    <string name="rmb_s">%1$s元</string>
+    <string name="stock_s">%1$s股</string>
+    <string name="current_result">本次降低成本: %1$s元</string>
+    <string name="planed_amount">计划投资金额：</string>
+    <string name="planed_quantity">计划投资股数：</string>
+
+    <string name="planed_amount_s">计划投资金额：%1$s元</string>
+    <string name="planed_quantity_s">计划投资股数：%1$s股</string>
+
+
+    <string name="holding_amount_s">已投资金额：%1$s元</string>
+    <string name="holding_quantity_s">已投资股数：%1$s股</string>
+
+    <string name="surplus_amount_s">剩余投资金额：%1$s元</string>
+    <string name="surplus_quantity_s">剩余投资股数：%1$s股</string>
+
+    <string name="percent_of_build">偏移建仓价位百分比：%1$s</string>
+
+    <string name="assert_lowest_price">建仓价：%1$s，断言最低价：%2$s，距离最低价还有%3$s</string>
+
+
+
+</resources>
