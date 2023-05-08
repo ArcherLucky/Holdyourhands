@@ -1,0 +1,2 @@
+# Holdyourhands
+一个简易的股票持仓记录App，主要是为了管住手，各位股友有什么想法可以提issues
